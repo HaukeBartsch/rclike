@@ -8,6 +8,8 @@ Screenshots
 
 <img src="/img/snapshot.png"></img>
 
+<img src="/img/CreateProject.png"></img>
+
 
 Use cases
 ----------
