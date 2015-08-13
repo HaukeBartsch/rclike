@@ -13,9 +13,9 @@ Screenshots
 
 Use cases
 ----------
-Projects that capture data from N sites. Each site shall handle their own data. Data from different sites shall be compatible/merged with one another.
+Distributed data capture data from N sites. Each site shall handle their own data. Data from different sites shall be compatible/merged with one another using a single data dictionary.
 
-Given some existing spreadsheet with data create a data dictionary that describes that data.
+Given some existing spreadsheet with data create a data dictionary that describes it.
 
 Verify existing spreadsheets against existing data dictionaries.
 
@@ -29,7 +29,7 @@ All data is stored as NO-SQL database suitable for sparse data structures (nativ
 Debug
 ======
 
-In order to test the page its easiest to start a local php web-server and to connect to the interface on http://localhost:8000.
+In order to test the application its easiest to start a local php web-server and to connect to the interface on http://localhost:8000.
 
 ```
 php -S localhost:8000
